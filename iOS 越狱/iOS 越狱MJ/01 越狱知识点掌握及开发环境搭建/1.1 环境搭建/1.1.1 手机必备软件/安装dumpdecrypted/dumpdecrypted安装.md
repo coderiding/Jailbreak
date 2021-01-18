@@ -6,5 +6,4 @@
 - .decrypted文件就是脱壳后的可执行文件
 
     ![https://gitee.com/threecornerstones/ThreeCornerstones_Pic/raw/master/uPic/aO7l7I.png](https://gitee.com/threecornerstones/ThreeCornerstones_Pic/raw/master/uPic/aO7l7I.png)
-
--
+ 
