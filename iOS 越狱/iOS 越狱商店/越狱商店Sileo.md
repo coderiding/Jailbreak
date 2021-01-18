@@ -1,0 +1,1 @@
+- 在 Electra 源（[https://electrarepo64.coolstar.org/）内找到](https://electrarepo64.coolstar.org/%EF%BC%89%E5%86%85%E6%89%BE%E5%88%B0) Sileo ，安装方式和平常安装插件一样：

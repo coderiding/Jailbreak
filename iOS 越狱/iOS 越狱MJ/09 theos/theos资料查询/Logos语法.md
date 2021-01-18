@@ -1,0 +1,23 @@
+[http://iphonedevwiki.net/index.php/Logos](http://iphonedevwiki.net/index.php/Logos)
+
+- %hook、%end：hook一个类的开始和结束
+- %log：打印方法调用详情
+    - 可以通过xcode-window-Devices and Simulators查看日志
+- HBDebugLog：跟NSLog类似
+- %new：添加一个新的方法
+- %c(className)：生成一个Class对象，比如%c(NSObject）,类似于NSStringFromClass()、objc_getClass()
+- %orig：函数原来的代码逻辑
+- %ctor：在加载动态库时调用
+- %dtor：在程序退出时调用
+- [logify.pl](http://logify.pl/)：可以将一个头文件快速转换成已经包含打印信息的xml文件
+    - [logify.pl](http://logify.pl/) xx.h > xx.xm
+    - logify.pl注意点
+        - logify.pl生成的xm文件，有很多时候是编译不通过的，需要进行一些处理
+            - 删掉_weak
+            - 删掉inout
+            - 删掉协议，比如或者声明一下协议信息@protocol XXTestDelegate
+            - 删掉-(void).cxx_destruct{$log;%orig;}
+            - 删除HBLogDebug(@"=0x%x,(unsigned int)r");
+            - 替换类名为void，比如将XXPerson *替换void*
+            - 或者声明一下类信息@class XXPerson
+- 如果有额外的资源文件（比如图片），放在项目的layout文件夹中，对应着手机的根路径/
