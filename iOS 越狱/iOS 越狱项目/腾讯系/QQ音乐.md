@@ -1,0 +1,85 @@
+com.tencent.QQMusic
+
+- [React](https://github.com/facebook/react-native.git) - (63126)
+- [Masonry](https://github.com/cloudkite/Masonry.git) - (16318)
+- [MJRefresh](https://github.com/CoderMJLee/MJRefresh.git) - (11823)
+- [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge.git) - (10649)
+- [[PromiseKit](https://github.com/mxcl/PromiseKit.git)]() - (9315)
+- [[TTTAttributedLabel](https://github.com/mattt/TTTAttributedLabel.git)]() - (8058)
+- [[YYText](https://github.com/ibireme/YYText.git)]() - (7245)
+- [[Reachability](https://github.com/tonymillion/Reachability.git)]() - (6626)
+- [[ASIHTTPRequest](https://github.com/pokeb/asi-http-request.git)]) - (5798)
+- [[GCDWebServer](https://github.com/swisspol/GCDWebServer.git)]() - (4011)
+    - GCDWebServer 是一个基于 GCD 的轻量级服务器框架，用于内嵌到 MacOS 或者 iOS 系统的应用中提供 HTTP1.1 的服务。使用 GCDWebServer 我们可以很轻松的在我们的应用中搭建一个 HTTP 服务器，让用户可以通过浏览器访问我们应用中的数据。或者使用 GCDWebServer 来实现一个无线U盘 App。
+    - [GCDWebServer](https://www.notion.so/GCDWebServer-93869b8e427b4b9f893537409681f1c7)
+- [YYModel](https://github.com/ibireme/YYModel.git) - (3483)
+- [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel.git) - (2274)
+    - MarqueeLabel是一个UILabel子类，当标签的文本增长出可用宽度时，会添加滚动字幕效果。标签滚动方向和速度/速率也可以指定。所有标准的UILabel属性（在有意义的地方）都可以在MarqueeLabel中可用，其意图是MarqueeLabel的行为就像UILabel一样。
+- [HPGrowingTextView](https://github.com/HansPinckaers/GrowingTextView.git) - (2052)
+    - 多行/自动调整UITextView与短信应用程序中相似。该示例项目模仿了苹果短信应用程序的外观。
+- [OpenUDID](https://github.com/ylechelle/OpenUDID.git) - (1909)
+- [YYCache](https://github.com/ibireme/YYCache.git) - (1734)
+- [OHAttributedLabel](https://github.com/AliSoftware/OHAttributedLabel.git) - (1548)
+- [UICountingLabel](https://github.com/dataxpress/UICountingLabel.git) - (1368)
+    - 添加计数动画支持UILabel
+- [ReactiveObjC](https://github.com/ReactiveCocoa/ReactiveObjC.git) - (1278)
+    - ReactiveObjC（正式名称为ReactiveCocoa或RAC）是一个受函数式反应编程启发的Objective-C框架。它为组成和转换值流提供了API。
+    - 这是Objective-C ReactiveCoa的遗留介绍，现在称为ReactiveObjC。有关使用Swift的更新版本，请参阅ReactiveCocoa或ReactiveSwift
+- [WeiboSDK](https://github.com/sinaweibosdk/weibo_ios_sdk.git) - (1257)
+- [OOMDetector](https://github.com/Tencent/OOMDetector.git) - (885)
+    - OOMDetector是一个iOS内存监控组件，应用此组件可以帮助你轻松实现OOM监控、大内存分配监控、内存泄漏检测等功能。
+- [ZipArchive](https://github.com/mattconnolly/ZipArchive.git) - (779)
+    - ZipArchive允许Mac OS X/iOS应用程序读写ZIP归档文件。
+- [TBXML](https://github.com/71squared/TBXML.git) - (567)
+    - TBXML是一款用Objective-C编写的轻量级XML文档解析器，专为Apple iPad、iPhone和iPod touch设备（也兼容Mac OSX）而设计。TBXML旨在提供尽可能快的XML解析，同时利用最少的资源。这种对绝对效率的要求是以牺牲XML验证和修改为代价实现的。无法从TBXML对象修改和生成有效的XML，在导入和解析XML文档时也无法执行任何验证。
+- [StyledPageControl](https://github.com/honcheng/iOS-StyledPageControl.git) - (508)
+    - 可定制的iOS版PageControl
+- [TTSwitch](https://github.com/twotoasters/TTSwitch.git) - (440)
+    - TTSwitch是一个用图像构建的UISwitch替代品。您现在可以根据您的需求完全定制其外观。当开关值更改时，它还增加了块支持。
+- [UIImage-Resize](https://github.com/AliSoftware/UIImage-Resize.git) - (352)
+    - 此类别允许您以约束大小或按比例调整UIImage的大小，使其适合给定的CGS大小。
+- [UIImageViewAligned](https://github.com/reydanro/UIImageViewAligned.git) - (341)
+    - UIImageView子类，允许您将图像向左/右/顶部/底部对齐，即使contentMode是AspectFit。
+- [NSTimer-Blocks](https://github.com/jivadevoe/NSTimer-Blocks.git) - (269)
+    - NSTimer上的非常简单的类别，使其能够使用块。
+- [KTOneFingerRotationGestureRecognizer](https://github.com/kirbyt/KTOneFingerRotationGestureRecognizer.git) - (244)
+    - KTOneFingerRotationGestureRecognizer是一个定制的UIGestureRecognizer，用于在iOS应用程序中进行单指旋转。它跟踪手指围绕中心点的运动。
+- [PeriscommentView](https://github.com/yoavlt/PeriscommentView.git) - (165)
+    - 本模块可以显示名称和评论，音乐上的评论
+- [UIDevice-Hardware](https://github.com/monospacecollective/UIDevice-Hardware.git) - (164)
+    - 在UIDevice中添加功能，以区分iPod touch 1G和2G等平台以及iPhone
+- [NSString-Hash](https://github.com/liufan321/NSString-Hash.git) - (155)
+    - NSString哈希的扩展方法
+- [MTAnimatedLabel](https://github.com/mturner1721/MTAnimatedLabel.git) - (120)
+    - MTAnimatedLabel是一个UILabel子类，支持类似于iPhone/iPad锁定屏幕的动画文本。
+- [Version](https://github.com/mrackwitz/Version.git) - (101)
+- [CalendarView](https://github.com/n8armstrong/CalendarView.git) - (82)
+- [RichTextView](https://github.com/kevinzhow/RichTextView.git) - (56)
+- [NSString-UrlEncode](https://github.com/kevinrenskers/NSString-UrlEncode.git) - (45)
+- [AppInfo](https://github.com/kostiakoval/AppInfo.git) - (37)
+- [CommonParameter](https://github.com/YJManager/CommonParameter.git) - (19)
+- [KSAudioPlayer](https://github.com/Krivoblotsky/KSAudioPlayer.git) - (17)
+- [CircleLabel](https://github.com/hoomazoid/CircleLabel.git) - (16)
+- [RSAEncryptor](https://github.com/qianhongqiang/RSAEncryptor.git) - (11)
+- [MLCamera](https://github.com/MakeZL/MLCamera.git) - (7)
+- [RoundImageView](https://github.com/ravero/RoundImageView.git) - (6)
+- [GuideView](https://github.com/hyc286716320/GuideView.git) - (4)
+- [AudioHelper](https://github.com/imnotok/AudioHelper.git) - (3)
+- [MTA](https://github.com/Sunnyyoung/MTA.git) - (3)
+- [CacheManager](https://github.com/boostcode/CacheManager.git) - (2)
+- [UserSession](https://github.com/mkrisztian95/UserSession.git) - (1)
+- [Keychain](https://github.com/pkrll/Keychain.git) - (1)
+- [LocalNotificationManager](https://github.com/OpenCraft/LocalNotificationManager.git) - (1)
+- [ImageManager](https://github.com/3pillarlabs/ios-image-manager.git) - (1)
+- [PayTool](http://39.108.111.114:3000/B7-Buyer-Pods/PayTool.git) - (0)
+- [WebSocket](https://github.com/yourtion/WebSocket-OC.git) - (-1)
+- [QREncoder](https://github.com/matteocrippa/QREncoder.git) - (-1)
+- [ColorGenerator](https://github.com/perlasivakrishna/ColorGenerator.git) - (-1)
+- [RSA](https://github.com/xialun/RSAClass.git) - (-1)
+- [WnsSDK](https://github.com/hanfer3576/WnsSDK.git) - (-1)
+- [Queue](https://github.com/to4iki/Queue.git) - (-1)
+- [Cluster](https://github.com/efremidze/Cluster.git) - (-2)
+- [YYFPSLabel](https://github.com/515783034/YYFPSLabel.git) - (-2)
+- [Hourglass](https://github.com/onmyway133/Hourglass.git) - (-2)
+- [CrashReporter](https://github.com/Nandaballabh/CrashReporter.git) - (-2)
+- [ResourceManager](https://github.com/wherecloud/ResourceManager.git) - (-2)

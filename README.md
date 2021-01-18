@@ -1,38 +1,17 @@
 # Jailbreak
 越狱体验
 
+学习目标：破解一款应用，安装到别人的手机上。重签名一个ipa文件。
 
-* [越狱介绍](https://github.com/codeRiding/Jailbreak/blob/master/j-1.md)
+### 逆向思路
 
+1、界面分析（Cycript、Reveal）
 
-## 手机越狱
+2、代码分析（提取ipa，分析mach-O，对Mach-O文件的静态分析MachOView、class-dump、Hopper Disassembler、ida等）
 
+3、动态调试（对运行中的APP进行代码调试debugserver、LLDB）
 
-* [通过命令行操作iPhone](https://github.com/codeRiding/Jailbreak/blob/master/j-2.md)
-* [使用chekra1n对手机越狱](https://github.com/codeRiding/Jailbreak/blob/master/j-3.md)
-* 使用unc0ver对手机越狱
-* 使用Chimera对手机越狱
-
-
-
-## 越狱步骤
-
-* [越狱步骤介绍](https://github.com/codeRiding/Jailbreak/blob/master/j-4.md)
-* [第一步：越狱提取ipa和资源文件](https://github.com/codeRiding/Jailbreak/blob/master/j-5.md)
-* [第二步：越狱的加壳和脱壳](https://github.com/codeRiding/Jailbreak/blob/master/j-6.md)
-* [第三步：研究越狱脱壳后的Mach-o文件](https://github.com/codeRiding/Jailbreak/blob/master/j-7.md)
-* [越狱查看APP的UI](https://github.com/codeRiding/Jailbreak/blob/master/j-8.md)
-* [Tweak介绍和Theos环境安装](https://github.com/codeRiding/Jailbreak/blob/master/j-9.md)
-
-
-
-## 越狱资源
-
-* [汶在越狱用到的工具](https://github.com/codeRiding/Jailbreak/blob/master/j-11.md)（**越狱deb手动安装**）
-* [越狱软件源](https://github.com/codeRiding/Jailbreak/blob/master/j-12.md)
-* [越狱的Cycript语言](https://github.com/codeRiding/Jailbreak/blob/master/j-13.md)
-
-
+4、代码编写（注入代码到APP中，必要时还可能需要重新签名、打包ipa）
 
 参考：
 
