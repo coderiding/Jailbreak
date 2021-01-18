@@ -1,0 +1,4 @@
+- MH_EXECUTE
+- MH_DYLIB
+- MH_BUNDLE
+    - APP的可执行文件、动态库都是由dyld负责加载的

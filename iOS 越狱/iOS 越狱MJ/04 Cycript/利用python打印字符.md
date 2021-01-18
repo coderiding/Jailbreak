@@ -1,0 +1,2 @@
+- unicode('登录','UTF-8')
+- print u'\u767\u5f55'

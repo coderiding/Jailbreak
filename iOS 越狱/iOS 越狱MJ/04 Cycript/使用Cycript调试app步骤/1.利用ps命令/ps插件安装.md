@@ -1,0 +1,1 @@
+- 安装adv-cmds（通过越狱appstore安装）
