@@ -1,0 +1,1 @@
+自动给第三方应用集成Reveal、Cycript和注入dylib的模块，支持调试dylib和第三方应用，只需要准备一个砸壳后的ipa或者app文件即可。

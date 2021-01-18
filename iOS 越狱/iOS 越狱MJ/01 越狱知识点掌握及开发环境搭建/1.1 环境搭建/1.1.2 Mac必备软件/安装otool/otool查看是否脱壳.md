@@ -1,0 +1,1 @@
+通过otool命令行也可以：otool -l 可执行文件路径 | grep crypt

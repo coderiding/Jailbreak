@@ -1,0 +1,2 @@
+- 从Finder快速定位到命令行工具
+- [https://zipzapmac.com/go2shell](https://zipzapmac.com/go2shell)

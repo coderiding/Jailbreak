@@ -1,0 +1,1 @@
+使用theos提供的logify.pl工具将.xm文件转成.mm文件进行编译，集成了Cydia Substrate，它的主要作用是针对OC方法、C函数以及函数地址进行HOOK操作。
