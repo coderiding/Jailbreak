@@ -1,0 +1,5 @@
+source 'https://github.com/AloneMonkey/MonkeyDevSpecs.git'
+ use_frameworks!
+ target 'AppTraceTestDylib' do
+      pod 'AppleTrace'
+ end

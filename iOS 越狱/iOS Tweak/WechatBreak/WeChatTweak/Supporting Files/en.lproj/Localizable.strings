@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  WeChatTweak
+
+  Created by Sunny Young on 2018/6/30.
+  Copyright © 2018 Sunnyyoung. All rights reserved.
+*/
+
+"Tweak.Title.LoginAnotherAccount" = "Login new account";
+"Tweak.Title.Group" = "Group";
+"Tweak.Message.CatchARecalledMessage" = "[Catched]\n%@";
+"Tweak.Message.Recalled" = "recalled";
+"Tweak.Message.Image" = "Image";
+"Tweak.Message.Voice" = "Voice";
+"Tweak.Message.Video" = "Video";
+"Tweak.Message.Sticker" = "Sticker";
+"Tweak.Message.Link" = "Link";
+"Tweak.Message.AMessage" = "a message";
